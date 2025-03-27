@@ -1,8 +1,19 @@
-# React + Vite
+# 🔐 Password Manager – A Module of Vital Hub  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 📌 Overview  
+The **Password Manager** is a secure and user-friendly module of the **Vital Hub** project, developed as part of my **Software Engineering (SE) course in the 5th semester**. This module allows users to securely store, manage, and generate strong passwords while ensuring encrypted data protection.  
 
-Currently, two official plugins are available:
+### 🎯 Features  
+- 🔑 **Secure Password Storage** (Encryption Enabled)  
+- 🛡 **Password Strength Meter**  
+- 🔄 **Password Generator** (Custom Length & Complexity)  
+- 📂 **Categorized Password Management**  
+- 🔍 **Search & Retrieve Saved Passwords**  
+- 📜 **User Authentication & Access Control**  
+- 🔗 **Auto-Copy to Clipboard** for quick access  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 💻 Tech Stack  
+- **Frontend:** React.js  
+- **Backend:** Node.js (Express.js)  
+- **Database:** MongoDB  
+- **Security:** bcrypt, JWT Authentication, AES Encryption  
